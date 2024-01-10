@@ -6,7 +6,7 @@
 
 [user@sahara ~]$ cd
 
-Since I did not specify a directory to change to, my directory remained the same. It is not an error exactly, but nothing changed. 
+This command brought me back to the home directory. Since I was already in the home directory, nothing changed.
 
 
 *directory argument*
