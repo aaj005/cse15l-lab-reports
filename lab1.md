@@ -4,7 +4,7 @@
 
 *no arguments* 
 
-Working directory: home (user@sahara ~)
+Working directory: home 
 
 ```
 [user@sahara ~]$ cd
@@ -15,7 +15,7 @@ This command brought me back to the home directory. Since I was already in the h
 
 *directory argument*
 
-Working directory: home (user@sahara ~)
+Working directory: home 
 
 ```
 [user@sahara ~]$ cd lecture1
@@ -28,7 +28,7 @@ when I put in a directory as an argument, my current directory changed to lectur
 
 *file argument*
 
-Working directory: home (user@sahara ~)
+Working directory: home 
 
 ```
 [user@sahara ~]$ cd lecture1/messages/en-us.txt
@@ -44,7 +44,7 @@ When I put in a path to a file as an argument, I received an error. This is beca
 
 *no arguments*
 
-Working directory: home (user@sahara ~)
+Working directory: home 
 
 ```
 [user@sahara ~]$ ls
@@ -57,7 +57,7 @@ When I did not put in an argument, it displayed all directories under my current
 
 *directory argument*
 
-Working directory: home (user@sahara ~)
+Working directory: home 
 
 ```
 [user@sahara ~]$ ls lecture1
@@ -71,7 +71,7 @@ When I put in a directory as an argument, it displayed all directories and files
 
 *file argument*
 
-Working directory: home (user@sahara ~)
+Working directory: home 
 
 ```
 [user@sahara ~]$ ls lecture1/messages/ro.txt
@@ -87,7 +87,7 @@ When I put in a path to a file as an argument, it displayed the path to the file
 
 *no arguments* 
 
-Working directory: home (user@sahara ~)
+Working directory: home 
 
 ```
 [user@sahara ~]$ cat
@@ -99,7 +99,7 @@ Running the command without an argument did not produce any results. This is bec
 
 *directory argument*
 
-Working directory: home (user@sahara ~)
+Working directory: home 
 
 ```
 [user@sahara ~]$ cat lecture1
@@ -112,7 +112,7 @@ Running the command with a directory as an argument also gave an error. This is 
 
 *file argument*
 
-Working directory: home (user@sahara ~)
+Working directory: home 
 
 ```
 [user@sahara ~]$ cat lecture1/messages/en-us.txt
