@@ -60,21 +60,21 @@ class NumberServer {
 
 <img width="486" alt="Screenshot 2024-01-30 at 12 58 27 PM" src="https://github.com/aaj005/cse15l-lab-reports/assets/156254216/3d780de0-7e01-4e39-ba81-924dcc7edcff">
 
-The method handleRequest is called. This method takes in the url, which in this case is "http://localhost:4000/add-message?s=hi&user=ari". 
-The values of the string variables urlString, user, and message get changed. urlString gets changed to the current url, which is passed into the method handleRequest. 
-The variable user gets changed to whatever is in front of the "user=" portion of the url -- in this case, user = "ari". 
-The variable message gets changed to whatever is in front of the "s=" portion of the url -- in this case, message = "hi". 
-Then, the string newMessage takes in the user and the message and formats them.
+The method `handleRequest` is called. This method takes in the url, which in this case is `http://localhost:4000/add-message?s=hi&user=ari`. 
+The values of the string variables `urlString`, `user`, and `message` get changed. `urlString` gets changed to the current url, which is passed into the method `handleRequest`. 
+The variable `user` gets changed to whatever is in front of the `user=` portion of the url -- in this case, `user = "ari"`. 
+The variable `message` gets changed to whatever is in front of the `s=` portion of the url -- in this case, `message = "hi"`. 
+Then, the string `newMessage` takes in the user and the message and formats them.
 
 ## Second screenshot
 
 <img width="504" alt="Screenshot 2024-01-30 at 12 58 50 PM" src="https://github.com/aaj005/cse15l-lab-reports/assets/156254216/8e32f2e5-78dc-4637-814e-1df5cc7d336f">
 
-The method handleRequest is called. This method takes in the url, which in this case is "http://localhost:4000/add-message?s=bye&user=joe". 
-The values of the string variables urlString, user, and message get changed. urlString gets changed to the current url, which is passed into the method handleRequest. 
-The variable user gets changed to whatever is in front of the "user=" portion of the url -- in this case, user = "joe". 
-The variable message gets changed to whatever is in front of the "s=" portion of the url -- in this case, message = "bye". 
-Then, the string newMessage takes in the user and the message and formats them. The new line is added below the previous one. 
+The method `handleRequest` is called. This method takes in the url, which in this case is `http://localhost:4000/add-message?s=bye&user=joe`. 
+The values of the string variables `urlString`, `user`, and `message` get changed. `urlString` gets changed to the current url, which is passed into the method `handleRequest`. 
+The variable `user` gets changed to whatever is in front of the `user=` portion of the url -- in this case, `user = "joe"`. 
+The variable `message` gets changed to whatever is in front of the `s=` portion of the url -- in this case, `message = "bye"`. 
+Then, the string `newMessage` takes in the user and the message and formats them. The new line is added below the previous one. 
 
 ## PART 2
 
