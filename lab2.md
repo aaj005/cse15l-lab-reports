@@ -65,6 +65,7 @@ The values of the string variables `urlString`, `user`, and `message` get change
 The variable `user` gets changed to whatever is in front of the `user=` portion of the url -- in this case, `user = "ari"`. 
 The variable `message` gets changed to whatever is in front of the `s=` portion of the url -- in this case, `message = "hi"`. 
 Then, the string `newMessage` takes in the user and the message and formats them.
+The `StringBuilder message` field gets updated since there is new message info.
 
 ## Second screenshot
 
@@ -75,12 +76,14 @@ The values of the string variables `urlString`, `user`, and `message` get change
 The variable `user` gets changed to whatever is in front of the `user=` portion of the url -- in this case, `user = "joe"`. 
 The variable `message` gets changed to whatever is in front of the `s=` portion of the url -- in this case, `message = "bye"`. 
 Then, the string `newMessage` takes in the user and the message and formats them. The new line is added below the previous one. 
+No values get changed since the query is invalid.
 
 ## PART 2
 
 Private key:
 
 <img width="570" alt="Screenshot 2024-01-30 at 1 14 24 PM" src="https://github.com/aaj005/cse15l-lab-reports/assets/156254216/26024360-79f5-4fe7-926e-63d0f6827b8c">
+(Note for grader: I fixed exerything else in my lab report, but I was unable to update the screenshots because my old laptop broke and everything I worked on (including the public and private key) was on there. I hope this will not negatively impact this lab report.)
 
 Public key:
 
