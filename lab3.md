@@ -1,13 +1,11 @@
 # Part 1: Bugs
 
 ## Failure-inducing input
-`
-@Test
+`@Test
 public void testReversed() {
 int[] input1 = { 1, 2, 3, 4 };
 assertArrayEquals(new int[] { 4, 3, 2, 1 }, ArrayExamples.reversed(input1));
-}
-`
+}`
 <img width="834" alt="Screenshot 2024-02-13 at 7 06 38 PM" src="https://github.com/aaj005/cse15l-lab-reports/assets/156254216/7a7c3e11-c08c-4c30-895b-c470dee4a2ac">
 
 ## Input that doesn't induce failure
