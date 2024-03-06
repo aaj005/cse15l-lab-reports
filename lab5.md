@@ -45,12 +45,13 @@ File and directory structure: one java file and one bash script
 
 Changed `if (count<0)` to `if (count>0)` 
 
+`<esc> :w :q` (exit insert mode, save, and quit)
+
+`sh test.sh` (rerun bash script)
+
 
 # Part 2- reflection
 One thing I learned from this lab experience in the second half of the quarter was how to edit and run files all within the terminal. Before I learned
 this, I was dependent on text editors and the terminals in them to edit and run java files. Now, after learning about vim and jdb, I can edit, debug,
 and run files all within the terminal. This is very helpful for small edits and is much quicker. 
 
-`<esc> :w :q` (exit insert mode, save, and quit)
-
-`sh test.sh` (rerun bash script)
