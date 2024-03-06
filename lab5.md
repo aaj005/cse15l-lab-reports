@@ -22,7 +22,7 @@ corrected. Thank you again for your help.
 <img width="444" alt="Screenshot 2024-03-06 at 2 53 47 PM" src="https://github.com/aaj005/cse15l-lab-reports/assets/156254216/cfb223f0-fd88-4fbe-97e0-f01c92c9a936">
 
 # complete setup information 
-File and directory structure: one java file and one bash script
+## File and directory structure: one java file and one bash script
 
 <img width="268" alt="Screenshot 2024-03-06 at 2 56 35 PM" src="https://github.com/aaj005/cse15l-lab-reports/assets/156254216/dc1fa9cf-7273-4219-99d3-d05089225a65">
 
