@@ -9,7 +9,8 @@ Logged into ieng6
 ## Step 2: cloning the repository
 <img width="569" alt="Screenshot 2024-02-21 at 2 44 56 PM" src="https://github.com/aaj005/cse15l-lab-reports/assets/156254216/c410cc44-f7dc-4902-9e1c-f3fc754c59d2">
 
-`git clone git@github.com: aaj005/lab7.git` 
+`ctrl c` to copy the repo
+`git clone ` + `ctrl v`
 Cloned the forked lab7 repository
 
 ## Step 3: running the tests
@@ -24,7 +25,7 @@ Ran the bash script that tests ListExamples.java
 `vim ListExamples.java`
 `i` `<backspace>1<esc>` `:w :q`
 
-Used vim to edit the code file. `i` enters insert mode, replaced `index2` with `index1`. 
+Used vim to edit the code file. `i` enters insert mode (was already in that spot in the file), replaced `index2` with `index1`. 
 
 `:w` to save the file and `:q` to quit.
 
@@ -40,5 +41,6 @@ The `bash test.sh` command was 2 up in the search history, so I pressed the up a
 
 `git add ListExamples.java`
 `git commit -m "tests pass"`
+`git push`
 
-This `git add` command adds a file to be committed, and the `git commit` command commits all files. 
+This `git add` command adds a file to be committed, and the `git commit` command commits all files. The `git push` command sends all pending changes to the repository. 
