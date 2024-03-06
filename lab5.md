@@ -4,6 +4,7 @@
 I am attempting to write code that takes in a set of numbers and computes the average. However, my code is not working as expected. Instead of
 computing the average, I am getting a message that says "No valid numbers entered". I have included a screenshot below. 
 I think the problem might be with the bash script. Any help would be appreciated.
+
 <img width="426" alt="Screenshot 2024-03-06 at 2 47 29 PM" src="https://github.com/aaj005/cse15l-lab-reports/assets/156254216/812ab913-f933-4e9f-85f5-a89e026cad7d">
 <img width="340" alt="Screenshot 2024-03-06 at 2 49 33 PM" src="https://github.com/aaj005/cse15l-lab-reports/assets/156254216/ee981047-604d-46a5-a767-82d510675c36">
 
